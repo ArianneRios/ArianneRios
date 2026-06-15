@@ -117,3 +117,6 @@ My goal is to continue strengthening my technical skills in data science, artifi
 * Location: La Paz, Bolivia
 * GitHub: [github.com/ArianneRios](https://github.com/ArianneRios)
 * Email: [rillari08.17l@gmail.com](mailto:rillari08.17l@gmail.com)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
