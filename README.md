@@ -42,6 +42,9 @@ I consider myself a responsible and detail-oriented person, with strong teamwork
 ---
 
 ## Technical Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 ### Programming and Development
 
@@ -50,6 +53,7 @@ I consider myself a responsible and detail-oriented person, with strong teamwork
   <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-Web%20Development-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" />
+  
 </p>
 
 ### Web Technologies
@@ -117,6 +121,4 @@ My goal is to continue strengthening my technical skills in data science, artifi
 * Location: La Paz, Bolivia
 * GitHub: [github.com/ArianneRios](https://github.com/ArianneRios)
 * Email: [rillari08.17l@gmail.com](mailto:rillari08.17l@gmail.com)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+
